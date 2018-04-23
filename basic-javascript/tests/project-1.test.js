@@ -16,7 +16,7 @@ describe('Project-1 Functions', () => {
       const multiplyByTen = funcs.multiplyByTen;
       assert.typeOf(multiplyByTen, 'object');
     });
-    // begin here
+    // begin here...
   });
 
   describe('`subtractFive`', () => {
